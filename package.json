@@ -1,0 +1,14 @@
+{
+  "name": "autopaypal",
+  "version": "1.0.0",
+  "main": "p.js",
+  "scripts": {
+    "start": "node p.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "https-proxy-agent": "^7.0.2",
+    "uuid": "^9.0.0"
+  }
+}
